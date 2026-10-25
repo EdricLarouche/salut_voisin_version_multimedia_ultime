@@ -31,6 +31,10 @@ TagManager:
   - SamplesInfoPanel
   - QDSUIToggleCheckboxRadio
   - QDSUIToggleThumbnail
+  - Anchor
+  - cle_rouge
+  - cle_bleu
+  - cle_jaune
   layers:
   - Default
   - TransparentFX
