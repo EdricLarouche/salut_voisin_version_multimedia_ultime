@@ -35,6 +35,7 @@ TagManager:
   - cle_rouge
   - cle_bleu
   - cle_jaune
+  - sol
   layers:
   - Default
   - TransparentFX
